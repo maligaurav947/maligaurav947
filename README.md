@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... HTML / CSS / JAVASCRIPT
 - 📫 How to reach me ... Instagram https://www.instagram.com/aka_gabbar_/
-- Links
--   Stack OverFlow https://stackoverflow.com/users/18569403/gaurav-mali
+
 
 <!---
 maligaurav947/maligaurav947 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
