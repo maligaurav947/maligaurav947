@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML/CSS/JAVASCRIPT/REACT.JS**
 
-- 👨‍💻 All of my projects are available at [https://maligaurav947.github.io/Portfoilio/](https://maligaurav947.github.io/Portfoilio/)
+- 👨‍💻 All of my projects are available at [https://github.com/maligaurav947?tab=repositories)
 
 - 💬 Ask me about **HTML / CSS / JAVASCRIPT**
 
