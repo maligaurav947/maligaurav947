@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **maligaurav947@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aI8cn0hHDIZihIQx4QuxYhEMnWmvRXWj/view?usp=sharing](https://drive.google.com/file/d/1aI8cn0hHDIZihIQx4QuxYhEMnWmvRXWj/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/116P437VKG6KzEcYAYut7m5DhTlN7KCia/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
