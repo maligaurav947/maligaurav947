@@ -1,11 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=maligaurav947&icon=5&color=12)](https://visitcount.itsvg.in)
+ 
+ ![img](https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47y76gru9evt675zspf05rtmyf606lhw382jhyrwa6&rid=giphy.gif&ct=g)
 
-<img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47y76gru9evt675zspf05rtmyf606lhw382jhyrwa6&rid=giphy.gif&ct=g" />
 
 # 💫 About Me:
 
 
-- 🌱 I’m currently learning **HTML/CSS/JAVASCRIPT/REACT.JS
+- 🌱 I’m currently learning **HTML/CSS/JAVASCRIPT/REACT.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maligaurav947?tab=repositories)
 
