@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=maligaurav947&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<img src="https://assets-global.website-files.com/5f15530648874c5f977e91c2/637ef1f502c0f83324cbf1ad_ABM%20College%20Web%20developer%20main.jpg" height="400" />
+<img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47y76gru9evt675zspf05rtmyf606lhw382jhyrwa6&rid=giphy.gif&ct=g" />
 
 # 💫 About Me:
 
